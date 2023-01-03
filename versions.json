@@ -1,11 +1,11 @@
 {"versions": [{"versiontype": "proofreading",
 		"title": "Usability research for interpreter-centred technology",
-		"authors": [{"name": "Francesca Maria Frittella %use this field for editors as well"}],
+		"authors": [{"name": "Francesca Maria Frittella"}],
 	"license": "CC-BY-4.0",
 	"publishedAt": "2022-10-06T09:04:18.000Z"},{"versiontype": "first_edition",
 		"title": "Usability research for interpreter-centred technology",
-		"authors": [{"name": "Francesca Maria Frittella %use this field for editors as well"}],
+		"authors": [{"name": "Francesca Maria Frittella"}],
 	"license": "CC-BY-4.0",
-	"publishedAt": "2023-01-02T09:04:18.000Z"}
+	"publishedAt": "2023-01-02T09:05:18.000Z"}
 	]
 }
